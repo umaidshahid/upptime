@@ -4,18 +4,19 @@
     "url": "https://stage.yratech.com",
     "icon": "https://icons.duckduckgo.com/ip3/stage.yratech.com.ico",
     "slug": "yra-tech",
-    "status": "up",
-    "uptime": "98.87%",
+    "status": "down",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 450,
-    "timeDay": 415,
-    "timeWeek": 474,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 439,
+    "timeDay": 313,
+    "timeWeek": 441,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {
+      "2024-12-09": 0,
       "2024-11-23": 255
     }
   }
